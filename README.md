@@ -1,0 +1,1 @@
+# specialty-config-repository
